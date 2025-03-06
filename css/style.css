@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+  }
+  
+  .container {
+    width: 1320px;
+    margin: 0 auto;
+  }
+  .mainPart {
+    padding: 250px 0;
+    background-image: linear-gradient(to right top, #ad5be1, #984bdc, #823cd7, #672ed2, #4621cd);
+  }
+  .box {
+    background-image: linear-gradient(to right top, #2ce043, #00c7a4, #00a4f8, #0077ff, #4621cd);
+    width: 300px;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+  }
+  .groupBtn {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+  }
+  .btn {
+    padding: 25px 50px;
+    background-image: linear-gradient(to right top, #2ce043, #00c7a4, #00a4f8, #0077ff, #4621cd);
+    color: #fff;
+    border-radius: 10px;
+    font-size: 100px;
+    border: none;
+    margin: 0 20px;
+  }
