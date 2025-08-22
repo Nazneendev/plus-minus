@@ -1,3 +1,3 @@
 live preview
-https://nazneenakterdeveloper.github.io/plus-minus/
-# plus-minus
+# plus-minus javascript
+https://nazneendev.github.io/plus-minus/
